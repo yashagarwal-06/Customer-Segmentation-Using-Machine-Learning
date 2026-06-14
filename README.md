@@ -97,35 +97,35 @@ Each cluster represents customers with similar spending habits and engagement pa
 
 ### Dataset Preview
 
-Dataset Preview
+<img width="700" height="188" alt="Dataset Preview" src="https://github.com/user-attachments/assets/c01f6253-4f81-498d-86e4-74dd90ed2450" />
 
 ### Dataset Information
 
-Dataset Information
+<img width="345" height="215" alt="Dataset Information" src="https://github.com/user-attachments/assets/60f0d160-eae6-4051-b775-ac11193e0249" />
 
 ### Summary Statistics
 
-Summary Statistics
+<img width="787" height="258" alt="Summary Statistics" src="https://github.com/user-attachments/assets/8235b405-fd93-4a85-bae0-0be0f5af3cef" />
 
 ### Missing Values Check
 
-Missing Values Check
+<img width="193" height="255" alt="Missing Values Check" src="https://github.com/user-attachments/assets/d3b52c8a-62a2-4609-9135-927d31f3385a" />
 
 ### Annual Income Distribution
 
-Income Histogram
+<img width="411" height="323" alt="Annual Income Distribution" src="https://github.com/user-attachments/assets/ecab96d8-82f0-47ab-bba8-a8d8d65ef457" />
 
 ### Spending Score Distribution
 
-Spending Score Histogram
+<img width="406" height="312" alt="Spending Score Distribution" src="https://github.com/user-attachments/assets/fd5b7894-e275-4257-83a9-bd1bccb8bc05" />
 
 ### Income vs Spending Scatter Plot
 
-Scatter Plot
+<img width="407" height="324" alt="Income vs Spending Scatter Plot" src="https://github.com/user-attachments/assets/9cd6aafe-57c8-4c6d-b586-3fb2f6787691" />
 
 ### Clustered Customer Data
 
-Cluster Results
+<img width="778" height="335" alt="Clustered Customer Data" src="https://github.com/user-attachments/assets/170c7f6c-8848-448e-82bb-e7d69b821ad0" />
 
 
 ## Technologies Used
